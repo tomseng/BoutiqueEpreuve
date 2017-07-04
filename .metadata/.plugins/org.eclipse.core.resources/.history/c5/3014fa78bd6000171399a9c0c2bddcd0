@@ -1,0 +1,5 @@
+package com.sessionbeans;
+
+public interface MyFunctions {
+
+}

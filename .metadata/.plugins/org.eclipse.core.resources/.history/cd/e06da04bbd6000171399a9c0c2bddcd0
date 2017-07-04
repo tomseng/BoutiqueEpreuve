@@ -1,0 +1,21 @@
+package com.sessionbeans;
+
+import javax.ejb.LocalBean;
+import javax.ejb.Stateless;
+
+/**
+ * Session Bean implementation class CompatableSessionBean
+ */
+@Stateless
+@LocalBean
+public class ComptableSessionBean {
+
+    /**
+     * Default constructor. 
+     */
+    public ComptableSessionBean() {
+        // TODO Auto-generated constructor stub
+    }
+    public void enregistrerVente();
+
+}

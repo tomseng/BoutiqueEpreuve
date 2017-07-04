@@ -1,0 +1,8 @@
+package tables;
+
+public class Produit {
+
+	private int idProduit;
+	private String nomProduit;
+	private String descProduit;
+}

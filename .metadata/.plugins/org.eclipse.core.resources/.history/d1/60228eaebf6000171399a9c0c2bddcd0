@@ -1,0 +1,6 @@
+package tables;
+
+public class Role {
+	private int idRole;
+	private String nomRole;
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;StockSessionBean.java&apos; to &apos;EJBProjet/ejbModule/sessionbeans&apos;&#x0D;&#x0A;- Original project: &apos;EJBProjet&apos;&#x0D;&#x0A;- Destination element: &apos;EJBProjet/ejbModule/sessionbeans&apos;&#x0D;&#x0A;- Original element: &apos;sessionbeans.StockSessionBean.java&apos;" description="Copy compilation unit" destination="/ejbModule&lt;sessionbeans" element1="/ejbModule&lt;sessionbeans{StockSessionBean.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1499173244396" units="1" version="1.0"/>
+</session>

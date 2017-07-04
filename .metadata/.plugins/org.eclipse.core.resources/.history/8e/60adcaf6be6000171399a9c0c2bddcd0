@@ -1,0 +1,10 @@
+package tables;
+
+import java.util.ArrayList;
+
+public class Commande {
+	
+	private ArrayList<Produit> produits;
+	private String quantite;
+
+}
