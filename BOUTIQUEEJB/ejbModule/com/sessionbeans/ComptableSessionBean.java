@@ -18,11 +18,7 @@ public class ComptableSessionBean implements MyFunctions{
     }
     public void enregistrerVente() {
 	}
-	@Override
-	public void snregistrerVentes() {
-		// TODO Auto-generated method stub
-		
-	}
+	
 	@Override
 	public void identification() {
 		// TODO Auto-generated method stub

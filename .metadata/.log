@@ -201,3 +201,15 @@ java.lang.ClassNotFoundException: com.mysql.jdbc.Driver cannot be found by org.h
 
 !ENTRY org.eclipse.jface.text 2 0 2017-07-04 16:56:20.280
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-04 20:33:46.716
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-04 20:33:46.743
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-04 20:38:17.227
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-04 20:38:17.228
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'

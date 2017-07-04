@@ -2,7 +2,7 @@ package com.sessionbeans;
 
 public interface MyFunctions {
 
-	public void snregistrerVentes();
+	public void enregistrerVente();
 	public void identification();
 	public void enregistrerEnvoi();
 	public void voirVente();
