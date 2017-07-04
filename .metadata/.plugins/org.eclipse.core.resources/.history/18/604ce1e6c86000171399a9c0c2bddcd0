@@ -18,7 +18,6 @@ public class Client {
 	public String getIdClient() {
 		return idClient;
 	}
-	
 
 	public void setIdClient(String idClient) {
 		this.idClient = idClient;

@@ -195,3 +195,9 @@ java.lang.ClassNotFoundException: com.mysql.jdbc.Driver cannot be found by org.h
 	at org.hibernate.eclipse.console.workbench.BasicWorkbenchAdapter.fetchDeferredChildren(BasicWorkbenchAdapter.java:104)
 	at org.eclipse.ui.progress.DeferredTreeContentManager$1.run(DeferredTreeContentManager.java:231)
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-04 16:56:20.279
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2017-07-04 16:56:20.280
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
